@@ -1,0 +1,10 @@
+<configuration>
+  <input>
+    <net-file value="I10West.net.xml"/>
+    <route-files value="I10West.rou.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="1000"/>
+  </time>
+</configuration>
